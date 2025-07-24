@@ -1,0 +1,45 @@
+{
+  "name": "expertise-repository",
+  "version": "1.0.0",
+  "description": "A structured collection of expertise across multiple domains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:website": "cd transformations/website && node build-website.js",
+    "serve:website": "cd transformations/website && npx serve _site",
+    "deploy:website": "cd transformations/website && node deploy-website.js",
+    "build:mcp": "cd transformations/mcp && node build-mcp-server.js",
+    "serve:mcp": "cd transformations/mcp && node serve-mcp-server.js",
+    "deploy:mcp": "cd transformations/mcp && node deploy-mcp-server.js",
+    "build:book": "cd transformations/books && node build-book.js",
+    "build:all-books": "cd transformations/books && node build-all-books.js",
+    "init:domain": "node scripts/create-domain.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/expertise.git"
+  },
+  "keywords": [
+    "expertise",
+    "knowledge",
+    "best-practices",
+    "education",
+    "mcp",
+    "model-context-protocol"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/expertise/issues"
+  },
+  "homepage": "https://github.com/yourusername/expertise#readme",
+  "dependencies": {
+    "marked": "^4.3.0",
+    "fs-extra": "^11.1.1",
+    "glob": "^10.2.6",
+    "yaml": "^2.2.2"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+} 

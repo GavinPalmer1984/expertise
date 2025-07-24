@@ -1,0 +1,94 @@
+{
+  "server": {
+    "name": "Expertise MCP Server",
+    "description": "MCP server providing access to domain expertise",
+    "version": "1.0.0",
+    "port": 8080
+  },
+  "auth": {
+    "required": false,
+    "type": "apiKey",
+    "apiKeyHeader": "X-API-Key"
+  },
+  "resources": {
+    "domains": {
+      "path": "/domains",
+      "description": "Access expertise domains",
+      "queryParams": [
+        {
+          "name": "name",
+          "type": "string",
+          "description": "Filter by domain name"
+        },
+        {
+          "name": "tags",
+          "type": "array",
+          "description": "Filter by tags"
+        }
+      ]
+    },
+    "knowledge": {
+      "path": "/domains/{domainId}/knowledge",
+      "description": "Access knowledge within a domain",
+      "queryParams": [
+        {
+          "name": "query",
+          "type": "string",
+          "description": "Search query for knowledge"
+        }
+      ]
+    },
+    "bestPractices": {
+      "path": "/domains/{domainId}/best-practices",
+      "description": "Access best practices within a domain"
+    },
+    "antiPatterns": {
+      "path": "/domains/{domainId}/anti-patterns",
+      "description": "Access anti-patterns within a domain"
+    },
+    "failures": {
+      "path": "/domains/{domainId}/failures",
+      "description": "Access failures and lessons within a domain"
+    }
+  },
+  "tools": {
+    "search": {
+      "description": "Search across all domains for expertise",
+      "inputs": [
+        {
+          "name": "query",
+          "type": "string",
+          "description": "Search query"
+        },
+        {
+          "name": "type",
+          "type": "string",
+          "description": "Restrict search to knowledge, best-practices, anti-patterns, or failures",
+          "enum": ["knowledge", "best-practices", "anti-patterns", "failures", "all"]
+        }
+      ],
+      "outputs": {
+        "results": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "domain": { "type": "string" },
+              "type": { "type": "string" },
+              "content": { "type": "string" },
+              "score": { "type": "number" }
+            }
+          }
+        }
+      }
+    }
+  },
+  "limits": {
+    "maxRequestsPerMinute": 100,
+    "maxConcurrentRequests": 10
+  },
+  "paths": {
+    "content": "../../domains",
+    "output": "./dist"
+  }
+} 

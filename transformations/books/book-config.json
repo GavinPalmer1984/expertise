@@ -1,0 +1,93 @@
+{
+  "defaults": {
+    "title": "{domain} Expertise",
+    "author": "Expertise Repository Contributors",
+    "language": "en-US",
+    "copyright": "© 2023 Expertise Repository",
+    "publisher": "Expertise Press",
+    "date": "2023",
+    "version": "1.0.0"
+  },
+  "structure": {
+    "includeTitlePage": true,
+    "includeTableOfContents": true,
+    "includePreface": true,
+    "includeIndex": true,
+    "includeReferences": true,
+    "chapterOrder": [
+      "introduction",
+      "knowledge",
+      "bestPractices",
+      "antiPatterns",
+      "failures",
+      "subDomains",
+      "resources"
+    ]
+  },
+  "formatting": {
+    "paperSize": "letter",
+    "fontSize": 11,
+    "fontFamily": "Serif",
+    "lineHeight": 1.5,
+    "margins": {
+      "top": "1in",
+      "bottom": "1in",
+      "left": "1in",
+      "right": "1in"
+    },
+    "hyphenate": true,
+    "codeStyle": "github"
+  },
+  "outputFormats": [
+    {
+      "format": "pdf",
+      "enabled": true,
+      "options": {
+        "includeCover": true,
+        "quality": "high"
+      }
+    },
+    {
+      "format": "epub",
+      "enabled": true,
+      "options": {
+        "includeToc": true,
+        "epubVersion": 3
+      }
+    },
+    {
+      "format": "html",
+      "enabled": true,
+      "options": {
+        "singleFile": false,
+        "includeStyles": true,
+        "responsiveDesign": true
+      }
+    },
+    {
+      "format": "markdown",
+      "enabled": true,
+      "options": {
+        "flavor": "github",
+        "preserveImages": true
+      }
+    },
+    {
+      "format": "audiobook",
+      "enabled": false,
+      "options": {
+        "voiceType": "natural",
+        "speed": 1.0,
+        "includeChapterMarkers": true,
+        "format": "mp3"
+      }
+    }
+  ],
+  "paths": {
+    "content": "../../domains",
+    "output": "./output",
+    "templates": "./templates",
+    "styles": "./styles",
+    "assets": "./assets"
+  }
+} 

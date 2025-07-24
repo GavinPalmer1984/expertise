@@ -1,0 +1,47 @@
+{
+  "site": {
+    "title": "Expertise Repository",
+    "description": "A structured collection of expertise across multiple domains",
+    "baseUrl": "",
+    "language": "en"
+  },
+  "appearance": {
+    "theme": "light",
+    "primaryColor": "#3498db",
+    "secondaryColor": "#2ecc71",
+    "fontFamily": "system-ui, -apple-system, sans-serif"
+  },
+  "navigation": {
+    "headerLinks": [
+      { "text": "Home", "url": "/" },
+      { "text": "Domains", "url": "/domains/" },
+      { "text": "About", "url": "/about/" },
+      { "text": "Contact", "url": "/contact/" }
+    ],
+    "footerLinks": [
+      { "text": "Privacy", "url": "/privacy/" },
+      { "text": "Terms", "url": "/terms/" },
+      { "text": "Github", "url": "https://github.com/yourusername/expertise" }
+    ]
+  },
+  "features": {
+    "enableSearch": true,
+    "enablePagination": true,
+    "enableBreadcrumbs": true,
+    "enableDarkMode": true,
+    "enableComments": false
+  },
+  "integrations": {
+    "analytics": "",
+    "seo": {
+      "enableOpenGraph": true,
+      "enableTwitterCards": true
+    }
+  },
+  "paths": {
+    "content": "../../domains",
+    "output": "./_site",
+    "templates": "./templates",
+    "assets": "./assets"
+  }
+} 
