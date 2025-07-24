@@ -43,13 +43,21 @@ Expertise is organized hierarchically by domains, from general to specialized. E
 - Regenerative Systems
 - Global Cooperation
 
+### Protective and Educational Domains
+- Ethical Force
+- Boundaries and Limits
+- Protective Intervention
+- Constructive Confrontation
+- Educational Discipline
+- Just Authority
+
 ### Specialized Domains
 - Fishing
 - (More to be added)
 
 ## For Expert Researchers
 
-We have generated **66 customized research prompts** to help expert researchers contribute their knowledge across all domains and subdomains. These prompts are specifically designed to:
+We have generated **108 customized research prompts** to help expert researchers contribute their knowledge across all domains and subdomains. These prompts are specifically designed to:
 
 - Guide comprehensive knowledge contribution
 - Document best practices and anti-patterns

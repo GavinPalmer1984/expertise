@@ -15,6 +15,7 @@
     "build:all-books": "cd transformations/books && node build-all-books.js",
     "init:domain": "node scripts/create-domain.js",
     "create:peace-domains": "node scripts/create-peace-domains.js",
+    "create:force-domains": "node scripts/create-force-and-boundaries-domains.js",
     "generate:research-prompts": "node scripts/generate-research-prompts.js"
   },
   "repository": {
@@ -30,7 +31,10 @@
     "model-context-protocol",
     "peace",
     "human-flourishing",
-    "sustainability"
+    "sustainability",
+    "ethical-force",
+    "boundaries",
+    "protection"
   ],
   "author": "",
   "license": "MIT",
