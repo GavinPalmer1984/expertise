@@ -1,6 +1,6 @@
 # Research Prompts Master List
 
-This directory contains 109 research prompts for expert researchers across all domains and subdomains in the Expertise Repository.
+This directory contains 110 research prompts for expert researchers across all domains and subdomains in the Expertise Repository.
 
 ## Purpose
 These prompts are designed to help expert researchers contribute high-quality knowledge to build a comprehensive repository focused on:
@@ -19,6 +19,7 @@ These prompts are designed to help expert researchers contribute high-quality kn
 
 ### Cross-Domain Analysis
 - [Religious Traditions Analysis](spiritual-wisdom-religious-traditions-analysis-prompt.md) - Comprehensive examination of religious practices, their costs and benefits
+- [Flow Efficiency and Systems Constraints](systems-flow-efficiency-constraints-prompt.md) - Analysis of bottlenecks, theory of constraints, and feedback systems
 
 ## Prompt Files
 
@@ -181,4 +182,4 @@ All contributions should:
 
 ---
 *Generated: 2023-06-18*
-*Total Prompts: 109*
+*Total Prompts: 110*
