@@ -40,6 +40,7 @@ True morality centers on loving life, people, and all creation, expressed throug
 - **Consistent boundaries**: Maintaining clear, fair limits that serve the learner's development
 - **Modeling excellence**: Demonstrating the behaviors and character you want to see developed
 - **Sacrificial service**: Prioritizing the learner's genuine needs over your own convenience or ego
+- **Cultivating self-control and contentment**: Teaching children to find joy and satisfaction without constant stimulation, developing this capacity at developmentally appropriate times and ways
 
 ### Less Obvious Moral Failures (Daily Mistakes)
 - **Casual dishonesty**: Small lies, exaggerations, or omissions that erode trust and integrity
@@ -50,6 +51,7 @@ True morality centers on loving life, people, and all creation, expressed throug
 - **Attention hoarding**: Dominating conversations or situations rather than creating space for others
 - **Assumption making**: Acting on assumptions about others' motives rather than seeking understanding
 - **Passive aggression**: Expressing displeasure indirectly rather than addressing issues constructively
+- **Overstimulation enabling**: Constantly entertaining children or providing stimulation rather than teaching them to find contentment in simplicity and develop self-control
 
 ### Individual Moral Tendencies and Balance
 - **Love neighbor as yourself principle**: Jesus' teaching reveals the need for balance - loving others and loving yourself appropriately
@@ -106,6 +108,7 @@ True morality centers on loving life, people, and all creation, expressed throug
 - **Community support necessity**: Individual moral growth happens best within supportive communities
 - **Practical wisdom**: Moral principles must be applied with practical wisdom appropriate to specific situations
 - **Incremental progress**: Moral development typically happens gradually through consistent small choices
+- **Developmental timing wisdom**: Character qualities like self-control and contentment can be cultivated but must be developed at appropriate ages and stages, not forced prematurely
 
 ## Current Moral Development Research
 - **Character education effectiveness**: Evidence-based approaches to developing virtue and moral reasoning
@@ -125,6 +128,7 @@ True morality centers on loving life, people, and all creation, expressed throug
 - Being a Good Child/Son/Daughter  
 - Being a Good Student
 - Being a Good Teacher/Parent/Authority
+- Cultivating Self-Control and Contentment
 - Daily Moral Awareness
 - Truth and Love Integration
 - Character Development

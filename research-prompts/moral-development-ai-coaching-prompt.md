@@ -24,6 +24,7 @@ Investigate how AI systems can effectively help people become better neighbors, 
 - **Good Children**: How can people honor parents while maintaining healthy boundaries and growing independence?
 - **Good Students**: What distinguishes genuine learning receptivity from mere compliance or performance?
 - **Good Teachers/Parents**: How can authority figures serve others' growth rather than their own ego or convenience?
+- **Self-Control and Contentment**: How can children be taught to find joy and satisfaction without constant stimulation, and what approaches work at different developmental stages?
 - **Daily Moral Awareness**: What are the subtle moral choices people make dozens of times daily without noticing?
 
 ### Less Obvious Moral Failures
