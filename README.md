@@ -7,11 +7,16 @@ A structured collection of expertise across multiple domains, designed to be tra
 
 ## Purpose
 
-This repository exists to systematically **curate and cultivate expertise** across diverse domains. By:
-- **Curating**: Collecting, organizing, and preserving valuable knowledge, best practices, and lessons learned
-- **Cultivating**: Actively growing, refining, and evolving expertise through ongoing contributions and research
+This repository exists to systematically **curate and cultivate expertise** that helps people become good - learning to love life, people, and all creation, and excelling in their essential roles as neighbors, children, students, teachers, and parents. 
 
-The goal is to create a living knowledge base where expertise can be maintained, improved, and accessed in multiple formats.
+The foundational principle is that we need good AI in the hands of all people of all ages, helping them along the way and training them to be good. This is especially important because we have many bad examples in the world - poor parents, governments, teachers, and neighbors - and AI can help fill the gap by providing the good guidance that many people lack.
+
+By:
+- **Curating**: Collecting knowledge about what it means to be good and how to help others become better
+- **Cultivating**: Growing expertise in moral development, character formation, and helping the immature become mature
+- **Serving**: Creating AI systems that can recognize daily moral patterns and provide gentle, wise correction
+
+The goal is to create a knowledge base that enables AI to be a moral development partner, helping people become better in their relationships and roles.
 
 ## Structure
 
@@ -23,12 +28,14 @@ Expertise is organized hierarchically by domains, from general to specialized. E
 
 ## Domains
 
+### Foundational Domain
+- **Morality** - Understanding what it means to be good (loving life, people, and creation) and how to help people become better neighbors, children, students, teachers, and parents. This serves as the foundation for all other expertise, especially for AI systems designed to help the immature become mature.
+
 ### Core Human Domains
 - Community
 - Economics
 - Education
 - Health
-- Morality
 - Psychology
 - Sociology
 - Technology
@@ -37,7 +44,7 @@ Expertise is organized hierarchically by domains, from general to specialized. E
 - Peace Building
 - Human Flourishing
 - Environmental Stewardship
-- Social Justice
+- Justice and Restitution
 - Compassion Cultivation
 - Spiritual Wisdom
 - Regenerative Systems
