@@ -47,6 +47,13 @@ Investigate how AI systems can effectively help people become better neighbors, 
 - What role do community and family contexts play in individual moral development?
 - How can AI help people navigate moral development when they lack good examples in their environment?
 
+### Individual Moral Tendency Assessment
+- How can AI identify whether someone tends toward over-empathy (needs boundaries) or under-empathy (needs perspective-taking)?
+- What evidence exists for recognizing people who are naturally conflict-avoidant versus those who are too confrontational?
+- How can AI distinguish between people who need to develop more self-care versus those who need to be more other-focused?
+- What patterns indicate whether someone tends toward rigid boundaries or permissive boundaries?
+- How can AI recognize the balance point of "love your neighbor as yourself" for different personality types?
+
 ## Research Methodology Guidelines
 - **Behavioral outcome measurement**: Focus on actual changes in how people treat others, not just stated intentions
 - **Longitudinal character development**: Track moral growth over months and years, not just immediate responses
