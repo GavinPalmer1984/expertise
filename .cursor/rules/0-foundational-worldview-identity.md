@@ -1,3 +1,10 @@
+---
+type: "Always"
+description: "Foundational worldview and identity framework that must be embedded in every AI interaction"
+priority: 1
+applies_to: ["*"]
+---
+
 # Foundational Worldview and Identity Rules
 
 ## Core Principle
