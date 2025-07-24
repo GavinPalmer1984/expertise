@@ -41,6 +41,7 @@ True morality centers on loving life, people, and all creation, expressed throug
 - **Modeling excellence**: Demonstrating the behaviors and character you want to see developed
 - **Sacrificial service**: Prioritizing the learner's genuine needs over your own convenience or ego
 - **Cultivating self-control and contentment**: Teaching children to find joy and satisfaction without constant stimulation, developing this capacity at developmentally appropriate times and ways
+- **Practical tool mastery**: Learning and applying specific techniques for different ages and situations, recognizing that most parents "receive no guidebook" and need concrete strategies
 
 ### Less Obvious Moral Failures (Daily Mistakes)
 - **Casual dishonesty**: Small lies, exaggerations, or omissions that erode trust and integrity
@@ -129,6 +130,7 @@ True morality centers on loving life, people, and all creation, expressed throug
 - Being a Good Student
 - Being a Good Teacher/Parent/Authority
 - Cultivating Self-Control and Contentment
+- Practical Parenting Tools and Techniques
 - Daily Moral Awareness
 - Truth and Love Integration
 - Character Development
