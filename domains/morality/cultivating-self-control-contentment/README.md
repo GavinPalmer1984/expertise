@@ -37,8 +37,9 @@ Self-control and contentment are interconnected virtues that enable people to be
 - **Identity formation**: Understanding themselves as people capable of self-discipline and contentment
 
 ### Environmental Factors
-- **Media and technology boundaries**: Limiting passive entertainment to create space for active engagement
-- **Family modeling**: Parents and adults demonstrating self-control and contentment in their own lives
+- **Screen time considerations**: Complex decisions about amount, type, and purpose of screen use - passive entertainment vs. creative tools vs. educational content
+- **Progressive freedom model**: Starting with restrictions and gradually increasing freedom as children demonstrate responsibility and self-control
+- **Family modeling**: Parents and adults demonstrating self-control and contentment in their own lives, including wise screen use
 - **Community support**: Surrounded by others who value and practice these virtues
 - **Physical environment**: Spaces that encourage reflection, creativity, and peaceful activity
 - **Cultural messaging**: Countering messages that equate happiness with constant stimulation or acquisition
@@ -76,6 +77,9 @@ Self-control and contentment are interconnected virtues that enable people to be
 - **Punishment without teaching**: Consequences without instruction about alternative choices don't build self-control
 - **Perfectionism paralysis**: Setting standards so high that children give up rather than gradually improve
 - **Cultural pressure surrender**: Giving in to societal messages about children's entertainment needs rather than maintaining family values
+- **Screen time rigidity**: Either completely avoiding technology or having no boundaries - missing the nuanced approach of purposeful, limited use
+- **Freedom without readiness**: Giving children more freedom than they've demonstrated ability to handle responsibly
+- **Restriction without progression**: Maintaining the same limitations regardless of demonstrated growth in responsibility
 
 ### Historical and Research Lessons
 - **Marshmallow test insights**: Children who can delay gratification show better outcomes decades later, but this skill can be taught
@@ -84,11 +88,56 @@ Self-control and contentment are interconnected virtues that enable people to be
 - **Mindfulness for children**: Age-appropriate contemplative practices help develop internal awareness and regulation
 - **Nature connection benefits**: Unstructured time in nature supports self-regulation and contentment development
 
+## Complex Practical Considerations
+
+### Screen Time: The Big Unknown
+**The challenge**: No clear consensus exists on optimal screen time amounts, types, or purposes for different ages and developmental stages.
+
+**Key distinctions that matter**:
+- **Passive consumption** (watching videos, playing simple games) vs. **active creation** (coding, digital art, video editing)
+- **Educational content** vs. **entertainment** vs. **tools for learning/work**
+- **Social connection** (video calls with family) vs. **parasocial interaction** (watching others online)
+- **Individual vs. shared screen time** (family movie vs. solo tablet use)
+- **Time of day effects** (screens before bed vs. afternoon use)
+
+**Questions requiring individual discernment**:
+- How much passive entertainment can a child handle before it affects their ability to find satisfaction in non-digital activities?
+- At what age can children begin using screens as tools rather than just entertainment?
+- How do you balance the benefits of digital literacy with the risks of stimulation dependency?
+- What role should educational screen time play compared to hands-on learning?
+- How do you handle peer pressure around screen access and gaming?
+
+### Progressive Freedom Model: Earned Responsibility
+**The principle**: Start with appropriate restrictions and gradually increase freedom as children demonstrate responsibility and self-control.
+
+**Application areas**:
+- **Physical freedom**: Neighborhood exploration, staying home alone, going places with friends
+- **Screen freedom**: More device access, less supervision, ability to manage own limits
+- **Social freedom**: Friend choices, social media access, dating parameters
+- **Financial freedom**: Managing allowance, part-time work, spending decisions
+- **Time freedom**: Bedtime flexibility, homework timing, activity choices
+
+**Key challenges**:
+- How do you know when a child is ready for the next level of freedom?
+- What happens when children prove they can't handle increased freedom responsibly?
+- How do you balance safety concerns with growth opportunities?
+- How do you handle different children developing responsibility at different rates?
+- When do you maintain restrictions despite responsibility (e.g., age-inappropriate content)?
+
+**Indicators of readiness for increased freedom**:
+- Consistently following current rules without constant reminders
+- Taking initiative in responsibilities without being asked
+- Showing concern for others' wellbeing, not just their own desires
+- Demonstrating honesty about mistakes and failures
+- Asking good questions about potential consequences
+- Showing evidence of internal motivation rather than just external compliance
+
 ## Current Research and Applications
 - **Executive function development**: Understanding how self-control develops in the brain and can be supported
 - **Attention training**: Research on practices that help children develop sustained focus and resist distraction
 - **Mindfulness adaptations**: Age-appropriate contemplative practices that support self-awareness and regulation
 - **Technology effects**: Ongoing research about how digital stimulation affects children's capacity for self-control and contentment
+- **Progressive freedom research**: Studies on how graduated independence affects character development and decision-making skills
 - **Cultural variations**: How different societies approach developing these capacities in children
 
 ## AI-Assisted Development Applications
@@ -97,6 +146,9 @@ Self-control and contentment are interconnected virtues that enable people to be
 - **Progress tracking**: Helping families see growth in self-control and contentment over time
 - **Environmental design**: Suggestions for creating physical and social environments that support these virtues
 - **Modeling reminders**: Helping adults recognize when their own behavior models or undermines the qualities they want to develop in children
+- **Screen time guidance**: Helping parents navigate the complex decisions about amount, type, and purpose of screen use for each child
+- **Progressive freedom assessment**: Helping parents recognize indicators of readiness for increased freedom and responsibility
+- **Individual customization**: Recognizing that different children need different approaches to developing self-control and contentment
 
 ## Practical Applications
 

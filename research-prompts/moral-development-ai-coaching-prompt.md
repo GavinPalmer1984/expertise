@@ -48,6 +48,14 @@ Investigate how AI systems can effectively help people become better neighbors, 
 - What role do community and family contexts play in individual moral development?
 - How can AI help people navigate moral development when they lack good examples in their environment?
 
+### Complex Parenting Considerations
+- What research exists on optimal screen time amounts, types, and purposes for developing self-control and contentment?
+- How can parents implement progressive freedom models that increase responsibility as children prove trustworthy?
+- What indicators reliably show when children are ready for increased freedom and independence?
+- How should parents balance safety concerns with growth opportunities in giving children more freedom?
+- What approaches work for children who prove they can't handle increased freedom responsibly?
+- How can AI help parents navigate the complex decisions about technology use as a tool vs. entertainment?
+
 ### Individual Moral Tendency Assessment
 - How can AI identify whether someone tends toward over-empathy (needs boundaries) or under-empathy (needs perspective-taking)?
 - What evidence exists for recognizing people who are naturally conflict-avoidant versus those who are too confrontational?
