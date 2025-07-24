@@ -1,6 +1,6 @@
 # Research Prompts Master List
 
-This directory contains 108 research prompts for expert researchers across all domains and subdomains in the Expertise Repository.
+This directory contains 109 research prompts for expert researchers across all domains and subdomains in the Expertise Repository.
 
 ## Purpose
 These prompts are designed to help expert researchers contribute high-quality knowledge to build a comprehensive repository focused on:
@@ -14,6 +14,11 @@ These prompts are designed to help expert researchers contribute high-quality kn
 2. Review the research framework and guidelines
 3. Contribute your knowledge using the structured format
 4. Submit your contribution to be integrated into the expertise repository
+
+## Specialized Research Prompts
+
+### Cross-Domain Analysis
+- [Religious Traditions Analysis](spiritual-wisdom-religious-traditions-analysis-prompt.md) - Comprehensive examination of religious practices, their costs and benefits
 
 ## Prompt Files
 
@@ -43,6 +48,7 @@ These prompts are designed to help expert researchers contribute high-quality kn
 - [Technology Domain](technology-domain-prompt.md)
 
 ### Subdomain Prompts
+
 **Boundaries And Limits:**
 - [Child Development Limits](boundaries-and-limits-child-development-limits-subdomain-prompt.md)
 - [Community Standards](boundaries-and-limits-community-standards-subdomain-prompt.md)
@@ -174,5 +180,5 @@ All contributions should:
 - Maintain ethical standards and safeguards
 
 ---
-*Generated: 2025-07-24*
-*Total Prompts: 108*
+*Generated: 2023-06-18*
+*Total Prompts: 109*
