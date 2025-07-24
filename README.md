@@ -47,6 +47,20 @@ Expertise is organized hierarchically by domains, from general to specialized. E
 - Fishing
 - (More to be added)
 
+## For Expert Researchers
+
+We have generated **66 customized research prompts** to help expert researchers contribute their knowledge across all domains and subdomains. These prompts are specifically designed to:
+
+- Guide comprehensive knowledge contribution
+- Document best practices and anti-patterns
+- Capture lessons learned from failures
+- Focus on peace, human flourishing, and love for all creation
+
+See `research-prompts/README.md` for the complete list of prompts, or generate fresh prompts with:
+```
+npm run generate:research-prompts
+```
+
 ## Transformation
 
 The repository is designed with transformation in mind:

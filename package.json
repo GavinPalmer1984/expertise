@@ -14,7 +14,8 @@
     "build:book": "cd transformations/books && node build-book.js",
     "build:all-books": "cd transformations/books && node build-all-books.js",
     "init:domain": "node scripts/create-domain.js",
-    "create:peace-domains": "node scripts/create-peace-domains.js"
+    "create:peace-domains": "node scripts/create-peace-domains.js",
+    "generate:research-prompts": "node scripts/generate-research-prompts.js"
   },
   "repository": {
     "type": "git",
