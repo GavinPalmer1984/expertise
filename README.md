@@ -23,6 +23,7 @@ Expertise is organized hierarchically by domains, from general to specialized. E
 
 ## Domains
 
+### Core Human Domains
 - Community
 - Economics
 - Education
@@ -31,6 +32,18 @@ Expertise is organized hierarchically by domains, from general to specialized. E
 - Psychology
 - Sociology
 - Technology
+
+### Peace and Flourishing Domains
+- Peace Building
+- Human Flourishing
+- Environmental Stewardship
+- Social Justice
+- Compassion Cultivation
+- Spiritual Wisdom
+- Regenerative Systems
+- Global Cooperation
+
+### Specialized Domains
 - Fishing
 - (More to be added)
 

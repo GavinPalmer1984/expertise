@@ -13,7 +13,8 @@
     "deploy:mcp": "cd transformations/mcp && node deploy-mcp-server.js",
     "build:book": "cd transformations/books && node build-book.js",
     "build:all-books": "cd transformations/books && node build-all-books.js",
-    "init:domain": "node scripts/create-domain.js"
+    "init:domain": "node scripts/create-domain.js",
+    "create:peace-domains": "node scripts/create-peace-domains.js"
   },
   "repository": {
     "type": "git",
@@ -25,7 +26,10 @@
     "best-practices",
     "education",
     "mcp",
-    "model-context-protocol"
+    "model-context-protocol",
+    "peace",
+    "human-flourishing",
+    "sustainability"
   ],
   "author": "",
   "license": "MIT",
