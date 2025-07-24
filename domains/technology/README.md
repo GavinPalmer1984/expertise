@@ -24,7 +24,7 @@ Technology fundamentally shapes human experience, but emerging evidence challeng
 
 ## Best Practices
 - **Conscious technology development**: Prioritize human flourishing over pure efficiency in design decisions
-- **Democratic oversight**: Maintain democratic participation in AI governance and development
+- **Expert-guided governance with stakeholder input**: Ensure technical decisions are made by those with relevant expertise while incorporating stakeholder goals, interests, and claims of injury
 - **Equitable distribution**: Design systems that distribute technology benefits broadly rather than concentrating power
 - **Human-centered design**: Preserve human agency and dignity in automated systems
 - **Open-source approaches**: Support democratization through open development models
@@ -65,7 +65,7 @@ Technology fundamentally shapes human experience, but emerging evidence challeng
 ### Emerging Principles
 - **Technology serves human choice**: Recognition that conscious social decisions shape technology's impact more than inherent capabilities
 - **Multiple futures remain possible**: Rejection of technological determinism in favor of active choice about technology's role
-- **Democratic participation essential**: Need for inclusive governance of powerful technologies
+- **Stakeholder-informed expert governance**: Need for governance that combines technical expertise with attention to affected parties' goals and claims
 - **Human dignity preservation**: Technology development must maintain and enhance rather than diminish human agency
 
 ## Sub-Domains

@@ -33,7 +33,7 @@ Economic systems fundamentally shape how we allocate resources, make decisions, 
 - **Balance efficiency with resilience**: Design economic systems that can adapt to disruption while maintaining effectiveness
 - **Develop interdependence skills**: Build capabilities for both self-sufficiency and collaborative economic participation
 - **Consider full lifecycle costs**: Include environmental and social impacts in economic decision-making, not just financial metrics
-- **Maintain democratic oversight**: Ensure democratic participation in economic governance, especially for powerful technologies
+- **Maintain expert oversight with stakeholder consideration**: Ensure economic decisions are made by those with relevant expertise while considering affected parties' interests and claims
 
 ## Anti-Patterns
 - **Assuming endless growth**: Believing unlimited expansion is possible or desirable in a finite system
@@ -76,7 +76,7 @@ Economic systems fundamentally shape how we allocate resources, make decisions, 
 
 ### Emerging Economic Principles
 - **Power dynamics trump technology**: Distribution of benefits depends more on social and economic structures than on technological capabilities
-- **Democratic participation essential**: Economic governance requires inclusive decision-making to serve broad prosperity
+- **Expert governance with stakeholder input essential**: Economic governance requires those with expertise making decisions while considering stakeholder interests and claims
 - **Multiple economic futures possible**: Conscious policy choices about economic systems matter more than technological determinism
 - **Integration over displacement**: Economic systems can be designed to integrate rather than replace human contributions
 

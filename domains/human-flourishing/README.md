@@ -24,7 +24,7 @@ Human flourishing encompasses multiple dimensions of wellbeing and purpose. Key 
 
 ### Technology and Flourishing Insights
 - **Choice over determinism**: Research shows that conscious choices about technology development and deployment matter more for human flourishing than technology's inherent capabilities
-- **Democratic participation**: Inclusive participation in technology governance improves outcomes for human wellbeing
+- **Stakeholder-informed expertise**: Expert-guided governance that considers affected parties' goals, interests, and claims improves outcomes for human wellbeing
 - **Equity considerations**: Technology's impact on flourishing depends heavily on how benefits are distributed across populations
 - **Agency preservation**: Maintaining human agency and dignity in technological systems is crucial for sustained flourishing
 - **Gradual adaptation success**: Incremental technological change allows better psychological and social adaptation than sudden disruption
