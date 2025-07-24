@@ -24,11 +24,14 @@ Expertise is organized hierarchically by domains, from general to specialized. E
 ## Domains
 
 - Community
+- Economics
 - Education
+- Health
 - Morality
+- Psychology
+- Sociology
 - Technology
 - Fishing
-- Health
 - (More to be added)
 
 ## Transformation
