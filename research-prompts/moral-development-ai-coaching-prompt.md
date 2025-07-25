@@ -49,12 +49,32 @@ Investigate how AI systems can effectively help people become better neighbors, 
 - How can AI help people navigate moral development when they lack good examples in their environment?
 
 ### Complex Parenting Considerations
-- What research exists on optimal screen time amounts, types, and purposes for developing self-control and contentment?
+
+#### Screen Time and Device Usage - Critical Research Priority
+**The challenge**: "It's so hard to get the use of devices with children just right" - parents need practical, evidence-based guidance for one of the most consequential decisions affecting child development.
+
+**Core research questions**:
+- **Optimal amounts by age**: What screen time limits correlate with healthy self-control development across different developmental stages?
+- **Content quality distinctions**: How do passive consumption (YouTube, games) vs. active creation (programming, digital art) vs. educational content affect character development differently?
+- **Device as tool vs. entertainment**: What research distinguishes using devices for specific purposes vs. open-ended entertainment browsing in terms of impact on self-regulation?
+- **Timing and context effects**: How do meal time screens, bedtime screens, and boredom-relief screens each impact self-regulation and family relationships differently?
+- **Social and family screen dynamics**: How does co-viewing vs. solo consumption affect family relationships and moral development?
+- **Addiction prevention and early intervention**: What early warning signs indicate unhealthy device relationships, and what interventions actually work to restore healthy boundaries?
+- **Progressive device responsibility**: How can parents implement age-appropriate device freedom progression (supervised → limited independent → full freedom) based on demonstrated responsibility?
+- **Dopamine alternative activities**: What research exists on activities that provide similar neural rewards as screens but build rather than diminish self-control and contentment?
+- **Neurological and developmental effects**: How do different types, amounts, and timing of screen exposure affect sleep, attention, emotional regulation, social skills, and brain development?
+- **Cultural and peer pressure navigation**: How can parents maintain device boundaries when social environments increasingly expect constant connectivity?
+- **Emergency and practical balance**: How do parents balance device restrictions with legitimate safety, educational, and family coordination needs?
+- **Family screen policies**: What approaches work for creating consistent, enforceable family technology agreements that adapt as children mature?
+- **Screen-free transition strategies**: What methods help children and families successfully implement device-free times and spaces without constant conflict?
+
+#### Progressive Freedom and Responsibility Models
 - How can parents implement progressive freedom models that increase responsibility as children prove trustworthy?
 - What indicators reliably show when children are ready for increased freedom and independence?
 - How should parents balance safety concerns with growth opportunities in giving children more freedom?
 - What approaches work for children who prove they can't handle increased freedom responsibly?
-- How can AI help parents navigate the complex decisions about technology use as a tool vs. entertainment?
+
+#### Simplicity and Adventure Encouragement  
 - How can parents effectively encourage children to find joy through simplicity, non-materialistic pursuits, and courageously exploring the unknown?
 - What are effective ways to counter cultural materialism and help children discover satisfaction through experiences, relationships, and discovery rather than acquisition?
 

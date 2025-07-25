@@ -96,22 +96,37 @@ Self-control and contentment are interconnected virtues that enable people to be
 
 ## Complex Practical Considerations
 
-### Screen Time: The Big Unknown
-**The challenge**: No clear consensus exists on optimal screen time amounts, types, or purposes for different ages and developmental stages.
+### Screen Time and Device Usage: Critical Priority Challenge
+**Parent reality**: "It's so hard to get the use of devices with children just right."
 
-**Key distinctions that matter**:
+**The challenge**: This may be one of the most consequential and complex parenting decisions of our time. No clear consensus exists on optimal screen time amounts, types, or purposes for different ages and developmental stages.
+
+**Dedicated research needed**: See comprehensive research prompt: `research-prompts/children-device-usage-research-prompt.md`
+
+**Key distinctions that currently matter**:
 - **Passive consumption** (watching videos, playing simple games) vs. **active creation** (coding, digital art, video editing)
 - **Educational content** vs. **entertainment** vs. **tools for learning/work**
 - **Social connection** (video calls with family) vs. **parasocial interaction** (watching others online)
 - **Individual vs. shared screen time** (family movie vs. solo tablet use)
 - **Time of day effects** (screens before bed vs. afternoon use)
+- **Quality of alternatives** (boring alternatives make screens irresistible)
 
-**Questions requiring individual discernment**:
+**Critical questions requiring research-backed answers**:
 - How much passive entertainment can a child handle before it affects their ability to find satisfaction in non-digital activities?
+- What are early warning signs of unhealthy device relationships vs. normal childhood limit-testing?
 - At what age can children begin using screens as tools rather than just entertainment?
 - How do you balance the benefits of digital literacy with the risks of stimulation dependency?
 - What role should educational screen time play compared to hands-on learning?
 - How do you handle peer pressure around screen access and gaming?
+- What activities provide similar dopamine rewards but build rather than diminish self-control?
+- How can families create device-free spaces and times without constant conflict?
+
+**Current working principles** (pending research validation):
+- **Content quality over quantity**: Active creation > educational content > passive consumption
+- **Timing matters**: No screens during meals, before bed, or as primary boredom relief
+- **Alternative activities must be genuinely appealing**: Restrictive approaches fail without compelling substitutes
+- **Progressive responsibility**: Supervised → guided → earned freedom → values-guided autonomy
+- **Family modeling**: Parents' device habits profoundly affect children's relationships with technology
 
 ### Progressive Freedom Model: Earned Responsibility
 **The principle**: Start with appropriate restrictions and gradually increase freedom as children demonstrate responsibility and self-control.
