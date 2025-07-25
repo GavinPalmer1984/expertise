@@ -13,6 +13,21 @@ Investigate practical, evidence-based parenting tools and techniques that help c
 - How do physical restraint techniques differ across cultures and what can we learn from these variations?
 - What training or preparation do parents need to use physical restraint safely and effectively?
 
+### Communication and Expectation Setting for Containment
+**Critical principle**: Children should know ahead of time the consequences of violence and property damage and the rules about containment techniques.
+
+**Research questions**:
+- How do parents effectively communicate containment policies to children of different ages in ways that build security rather than fear?
+- What language and explanations work best for helping children understand that containment is loving protection, not punishment?
+- How far in advance should children be informed about containment consequences, and how should this information be reinforced?
+- What research exists on the psychological effects of predictable vs. surprise physical interventions on children?
+- How do parents explain the difference between containment (loving safety intervention) and punishment (consequences for poor choices)?
+- What approaches help children understand that violence and property damage trigger containment for everyone's safety, not as personal rejection?
+- How can families practice or discuss containment procedures when children are calm so they're not introduced during crisis?
+- What evidence exists for children's sense of security when they know clear, consistent boundaries exist around violence and destruction?
+- How do children respond differently to containment when they've been prepared vs. when it's unexpected?
+- What role does the child's understanding of the "why" behind containment play in building trust vs. creating fear?
+
 ### Alternative De-escalation Techniques
 - What non-physical methods exist for helping completely dysregulated children return to calm?
 - How effective are techniques like sensory breaks, breathing exercises, or environmental changes for different age groups?
@@ -98,11 +113,13 @@ Investigate practical, evidence-based parenting tools and techniques that help c
 ## Output Requirements
 - Comprehensive catalog of evidence-based parenting techniques organized by age and situation
 - Safety guidelines for physical intervention methods
+- Communication frameworks for explaining containment policies to children in age-appropriate ways
 - Decision-making frameworks for choosing appropriate techniques
 - Training materials for parents learning new approaches
 - Cultural adaptation guidelines for different family contexts
 - Assessment tools for evaluating technique effectiveness and relationship impact
 - Support resources for parents struggling with challenging behaviors
+- Scripts and language suggestions for discussing boundaries and consequences with children before crises occur
 
 ## Specific Areas Needing Research
 - Effectiveness of loving physical restraint vs. alternative calming methods
@@ -115,6 +132,7 @@ Investigate practical, evidence-based parenting tools and techniques that help c
 
 ## Critical Considerations
 - **Intent and emotional state**: The parent's heart and emotional regulation during intervention
+- **Advance communication**: Children should know ahead of time the consequences of violence and property damage and the rules about containment techniques
 - **Consistency**: How important is consistent application across caregivers and situations?
 - **Community support**: What role does extended family/community play in effective parenting?
 - **Parent self-care**: How does parental stress and wellbeing affect technique effectiveness?
