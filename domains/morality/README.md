@@ -137,6 +137,7 @@ True morality centers on loving life, people, and all creation, expressed throug
 - Practical Parenting Tools and Techniques
 - Marriage as Enemy-Love Training
 - Channeling Aggression and Force Ethically
+- Suffering, Discipline, and Growth
 - Daily Moral Awareness
 - Truth and Love Integration
 - Character Development
