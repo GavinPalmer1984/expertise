@@ -87,6 +87,7 @@ Self-control and contentment are interconnected virtues that enable people to be
 - **Screen time research**: Excessive passive entertainment correlates with attention difficulties and reduced self-regulation
 - **Mindfulness for children**: Age-appropriate contemplative practices help develop internal awareness and regulation
 - **Nature connection benefits**: Unstructured time in nature supports self-regulation and contentment development
+- **Loving intervention necessity**: Sometimes family members must be "mean" (firm, not talking it away) to save someone from their own arrogance and ignorance - intervention requires action, not just words
 
 ## Complex Practical Considerations
 

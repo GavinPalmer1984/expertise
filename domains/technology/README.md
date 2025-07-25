@@ -79,6 +79,7 @@ Technology fundamentally shapes human experience, but emerging evidence challeng
 - Brain-Computer Interfaces
 - Decentralized Systems
 - Technology Ethics and Governance
+- Expertise Recognition and Systems
 
 ## Metadata
 - Contributors: Technology Researchers, AI Ethics Experts, Digital Democracy Advocates
