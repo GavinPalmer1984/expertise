@@ -55,6 +55,7 @@ True morality centers on loving life, people, and all creation, expressed throug
 - **Assumption making**: Acting on assumptions about others' motives rather than seeking understanding
 - **Passive aggression**: Expressing displeasure indirectly rather than addressing issues constructively
 - **Overstimulation enabling**: Constantly entertaining children or providing stimulation rather than teaching them to find contentment in simplicity and develop self-control
+- **Mismanaging natural aggression**: Either suppressing aggressive impulses entirely (leading to explosions) or expressing them destructively rather than channeling them skillfully into protective, disciplined outlets with proper coaching and boundaries
 
 ### Individual Moral Tendencies and Balance
 - **Love neighbor as yourself principle**: Jesus' teaching reveals the need for balance - loving others and loving yourself appropriately
@@ -135,6 +136,7 @@ True morality centers on loving life, people, and all creation, expressed throug
 - Cultivating Self-Control and Contentment
 - Practical Parenting Tools and Techniques
 - Marriage as Enemy-Love Training
+- Channeling Aggression and Force Ethically
 - Daily Moral Awareness
 - Truth and Love Integration
 - Character Development
