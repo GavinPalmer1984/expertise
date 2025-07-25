@@ -26,6 +26,18 @@ This research addresses one of the most consequential and complex parenting deci
 - What research exists on "high-quality" vs. "low-quality" screen time?
 - How do interactive vs. non-interactive screen experiences affect self-regulation development?
 
+### Advertisement and Marketing Exposure - Overlooked Critical Factor
+- **The problem**: Parents hand over devices with bad advertisements, inadvertently exposing children to content that undermines family values and character development goals
+- **Research questions**:
+  - How do advertisements affect children's developing values, desires, and self-perception?
+  - What is the cumulative impact of exposure to materialistic, sexualized, or manipulative advertising content?
+  - How do different advertising formats (video ads, sponsored content, product placement, targeted ads) affect children differently?
+  - What are the psychological effects of advertising designed to create dissatisfaction and desire for products?
+  - How does advertising exposure correlate with increased materialism, reduced contentment, and family conflict over purchases?
+  - What platforms and apps expose children to the most problematic advertising content?
+  - How can parents effectively control advertising exposure while still allowing beneficial device usage?
+  - What alternatives exist for ad-free or family-values-aligned content delivery?
+
 ### Timing and Context Effects
 - How do screens at different times affect children differently:
   - **Meal time screens**: Impact on family connection and mindful eating
@@ -75,6 +87,17 @@ This research addresses one of the most consequential and complex parenting deci
 - How can parents maintain consistency across different environments (home, school, friends' houses)?
 - What tools and apps actually help parents monitor and limit device usage effectively?
 
+### Advertisement Control and Content Curation
+- **The oversight**: Many parents focus on screen time limits but ignore advertising exposure that undermines their values
+- **Critical implementation questions**:
+  - What are the most effective ad-blocking solutions for different devices and platforms?
+  - How can parents curate content to align with family values while still allowing beneficial device usage?
+  - What subscription services, apps, or platforms provide quality content without problematic advertising?
+  - How can parents teach children to critically evaluate advertising and marketing messages?
+  - What approaches work for explaining to children why certain content is restricted in their family?
+  - How do parents handle children's exposure to advertising at friends' houses or school?
+  - What are the costs and benefits of ad-free alternatives vs. teaching children to navigate advertising-supported content?
+
 ### Long-term Character and Development Goals
 - How does early device usage predict later self-regulation, academic performance, and relationship quality?
 - What device policies support the development of:
@@ -113,6 +136,8 @@ This research addresses one of the most consequential and complex parenting deci
 - **Idealized research**: Studies that ignore practical constraints of modern family life
 - **Moral panic perspectives**: Reactionary approaches that ignore legitimate benefits of technology
 - **Adult projection**: Assume children's device relationships mirror adult patterns and challenges
+- **Advertisement blindness**: Focus only on screen time quantity while ignoring harmful advertising content that undermines family values and character development goals
+- **Content naivety**: Assume all "educational" or "age-appropriate" content is beneficial without considering advertising and marketing exposure
 
 ## Integration with Moral Development
 This research should connect device usage decisions to the broader goal of helping children become good neighbors, children, students, teachers, and parents who love life, people, and all creation. Device policies should support rather than substitute for character development, self-control cultivation, and family relationship building. 

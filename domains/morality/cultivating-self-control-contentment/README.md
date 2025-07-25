@@ -110,6 +110,7 @@ Self-control and contentment are interconnected virtues that enable people to be
 - **Individual vs. shared screen time** (family movie vs. solo tablet use)
 - **Time of day effects** (screens before bed vs. afternoon use)
 - **Quality of alternatives** (boring alternatives make screens irresistible)
+- **Advertisement exposure** (many parents hand over devices with bad advertisements that undermine family values and character development)
 
 **Critical questions requiring research-backed answers**:
 - How much passive entertainment can a child handle before it affects their ability to find satisfaction in non-digital activities?
@@ -127,6 +128,7 @@ Self-control and contentment are interconnected virtues that enable people to be
 - **Alternative activities must be genuinely appealing**: Restrictive approaches fail without compelling substitutes
 - **Progressive responsibility**: Supervised → guided → earned freedom → values-guided autonomy
 - **Family modeling**: Parents' device habits profoundly affect children's relationships with technology
+- **Advertisement awareness**: Control exposure to materialistic, manipulative, or values-undermining advertising content - it's not just about screen time but what values are being transmitted during that time
 
 ### Progressive Freedom Model: Earned Responsibility
 **The principle**: Start with appropriate restrictions and gradually increase freedom as children demonstrate responsibility and self-control.
