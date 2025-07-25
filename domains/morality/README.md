@@ -112,6 +112,7 @@ True morality centers on loving life, people, and all creation, expressed throug
 - **Practical wisdom**: Moral principles must be applied with practical wisdom appropriate to specific situations
 - **Incremental progress**: Moral development typically happens gradually through consistent small choices
 - **Developmental timing wisdom**: Character qualities like self-control and contentment can be cultivated but must be developed at appropriate ages and stages, not forced prematurely
+- **Marriage as enemy-love training**: "It's in marriage that we learn to love our enemies" - the intimate, committed relationship of marriage becomes the primary context for learning to love someone when they are difficult, annoying, or hurtful
 
 ## Current Moral Development Research
 - **Character education effectiveness**: Evidence-based approaches to developing virtue and moral reasoning
@@ -133,6 +134,7 @@ True morality centers on loving life, people, and all creation, expressed throug
 - Being a Good Teacher/Parent/Authority
 - Cultivating Self-Control and Contentment
 - Practical Parenting Tools and Techniques
+- Marriage as Enemy-Love Training
 - Daily Moral Awareness
 - Truth and Love Integration
 - Character Development
