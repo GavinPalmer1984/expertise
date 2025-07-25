@@ -42,6 +42,8 @@ True morality centers on loving life, people, and all creation, expressed throug
 - **Sacrificial service**: Prioritizing the learner's genuine needs over your own convenience or ego
 - **Cultivating self-control and contentment**: Teaching children to find joy and satisfaction without constant stimulation, developing this capacity at developmentally appropriate times and ways
 - **Practical tool mastery**: Learning and applying specific techniques for different ages and situations, recognizing that most parents "receive no guidebook" and need concrete strategies
+- **Attitude transmission**: Understanding that "attitude is caught not taught" - influence spreads through modeling rather than instruction
+- **Influence skill development**: Recognizing that being influential is a learnable capability, not an innate trait, and developing these skills deliberately
 
 ### Less Obvious Moral Failures (Daily Mistakes)
 - **Casual dishonesty**: Small lies, exaggerations, or omissions that erode trust and integrity
