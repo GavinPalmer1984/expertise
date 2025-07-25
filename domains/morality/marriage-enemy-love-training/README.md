@@ -15,11 +15,24 @@ Marriage provides unique conditions for developing the capacity to love those wh
 
 ### Why Marriage Is Unique for This Training
 
+#### Opponent Processor Dynamics (John Vervaeke's Insight)
+**Core concept**: Marriage functions as an "opponent processor" - a cognitive and relational system where two different perspectives continuously challenge, refine, and calibrate each other, leading to deeper wisdom and character development.
+
+**How this creates enemy-love training**:
+- **Complementary processing**: Spouses often have different cognitive styles, emotional patterns, decision-making approaches, and values priorities that create natural tension
+- **Continuous calibration**: Daily interaction requires constant adjustment of assumptions, expectations, and responses to accommodate another's different way of being
+- **Integrated wisdom**: The ongoing creative tension between different perspectives generates insights and growth neither partner could achieve alone
+- **Mutual correction**: Each spouse serves as a living check against the other's blind spots, biases, self-deceptions, and character limitations
+- **Loving opposition**: The "opponent" aspect isn't hostility but necessary resistance - learning to love someone whose very way of processing reality challenges and refines your own
+
+**Connection to enemy-love**: Your spouse becomes your "enemy" precisely because they consistently oppose your natural inclinations, preferences, and automatic responses. Learning to love this opposition - rather than trying to eliminate or escape it - transforms both partners.
+
 #### Intimacy Amplifies Everything
 - **Constant exposure**: You see all sides of your spouse - their worst moments, habits, and characteristics
 - **Vulnerability increases hurt**: The closer someone is, the more their words and actions can wound
 - **No masks possible**: Pretense becomes impossible when living in such close proximity
 - **Accumulated grievances**: Small annoyances compound over time into major sources of resentment
+- **Cognitive friction**: Different ways of thinking and processing create daily opportunities for conflict or growth
 
 #### Commitment Prevents Escape
 - **Vow constraints**: Marriage promises create obligation to work through difficulties rather than abandon relationship
@@ -48,6 +61,13 @@ Marriage provides unique conditions for developing the capacity to love those wh
 - **Grace giving**: Treating them better than they deserve in the moment
 - **Benefit of doubt**: Assuming good intentions when their actions seem hurtful
 - **Prayer and patience**: Asking for help to love when natural love fails
+
+#### Embracing Opponent Processor Dynamics
+- **Welcoming different perspectives**: Recognizing that your spouse's different way of thinking is valuable, not just annoying
+- **Learning from opposition**: Asking "What might I learn from this conflict?" rather than "How do I win this argument?"
+- **Seeking synthesis**: Looking for ways to integrate both perspectives rather than choosing one winner
+- **Appreciating cognitive diversity**: Valuing your spouse's different decision-making style as complementary rather than wrong
+- **Growing through friction**: Seeing disagreements as opportunities for both partners to become wiser and more mature
 
 ### Character Development Through Marriage
 
@@ -91,12 +111,15 @@ Marriage provides unique conditions for developing the capacity to love those wh
 
 ### For Developing Enemy-Love in Marriage
 - **See spouse as training partner**: Recognize that difficulties are opportunities for character development, not relationship failures
+- **Embrace opponent processor dynamics**: Value your spouse's different cognitive and emotional processing as complementary wisdom, not opposition to overcome
 - **Practice immediate forgiveness**: Don't let resentment build up; address and release offenses quickly
 - **Serve sacrificially**: Look for ways to meet spouse's needs even when you don't feel like it
 - **Pray for your spouse**: Ask God to bless them, especially when you're frustrated with them
 - **Focus on your response**: Control what you can control - your own attitudes and actions
 - **Seek understanding**: Try to understand why your spouse acts the way they do rather than just judging
-- **Celebrate small victories**: Notice and appreciate when your spouse makes efforts to improve
+- **Learn from friction**: Ask "What wisdom might emerge from this tension?" rather than trying to eliminate all disagreement
+- **Celebrate cognitive diversity**: Appreciate how your spouse's different thinking style makes both of you wiser
+- **Pursue synthesis over victory**: Look for ways to integrate different perspectives rather than proving who's right
 - **Get help when needed**: Seek counseling or mentoring when conflicts become too difficult to handle alone
 
 ### For Supporting Others in This Training
